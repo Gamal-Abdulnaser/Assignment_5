@@ -65,7 +65,8 @@ section {
 
 /* ----- Home------ */
 .home {
-  background-image: url("./images/slider-01.jpg");
+	
+  background-image: url("../images/slider-01.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
